@@ -1,22 +1,16 @@
-# 🌾 Reggie Simon
+#  Reggie Simon 🐸
 
 **`| 👨‍🎓 Student | 🎮 Game Developer | 🎨 Multimedia Artist |`**
 
-Here are some ideas to get you started:
+Hey! I'm Reggie, an aspiring game developer hoping to create anything that resonates and inspires anyone. 
+I'm currently studying in Manila, Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![image](https://github.com/ReggieSimon/ReggieSimon/assets/70024190/f5601452-02a0-473e-9212-faaf53fcfcc9)
+- Artstation Profile:  [🎨Follow me](https://www.artstation.com/reggiemoes)
+- LinkedIn Profile:    [:man_office_worker:Connect with me](https://www.linkedin.com/in/reggiesimon/)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
+
+
+
