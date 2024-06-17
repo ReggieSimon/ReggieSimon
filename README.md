@@ -1,6 +1,6 @@
 # 🌾 Reggie Simon
 
-**'Student | Game Developer | Multimedia Artist'**
+**"Student | Game Developer | Multimedia Artist"**
 
 Here are some ideas to get you started:
 
