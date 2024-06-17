@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://github.com/ReggieSimon/ReggieSimon/assets/70024190/f5601452-02a0-473e-9212-faaf53fcfcc9)
 
 | Syntax | Description |
 | ----------- | ----------- |
