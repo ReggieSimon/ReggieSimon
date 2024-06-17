@@ -1,6 +1,6 @@
 # 🌾 Reggie Simon
 
-**"Student | Game Developer | Multimedia Artist"**
+**`| 👨‍🎓 Student | 🎮 Game Developer | 🎨 Multimedia Artist |`**
 
 Here are some ideas to get you started:
 
@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<iframe src="https://giphy.com/embed/Kql9TaDnFyHwQ" width="300" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/v5mt-Kql9TaDnFyHwQ">via GIPHY</a></p>
+![alt text](https://media.giphy.com/media/61lH8qx8A0JiJXh3h5/giphy.gif)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
